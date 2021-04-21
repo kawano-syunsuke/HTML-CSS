@@ -1,0 +1,13 @@
+header{
+    margintop: 30px;
+    color: #2e99e9;
+}
+hr{
+    border-width: 3px;
+    border-color: #2e99e9;
+    margin: 30px 0;
+}
+h1{
+    font-size: 18px;
+    font-weight: bold;
+}
